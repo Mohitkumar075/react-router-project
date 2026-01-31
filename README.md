@@ -18,7 +18,7 @@ This is a beginner-friendly React.js project demonstrating routing using React R
 📂 Repository Link 👉 https://github.com/Mohitkumar075/react-router-project.git
 
 Scrrenshot:->
-(https://raw.githubusercontent.com/Mohitkumar075/react-router-project/main/screenshot.png)
+(https://raw.githubusercontent.com/Mohitkumar075/react-router-project/main/screenshot.png.png)
 
 
 Author:
